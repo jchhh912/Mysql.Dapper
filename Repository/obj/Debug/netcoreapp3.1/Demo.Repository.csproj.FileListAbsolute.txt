@@ -1,0 +1,4 @@
+C:\Users\chejiang\Desktop\Demo\Repository\bin\Debug\netcoreapp3.1\Demo.IRepository.dll
+C:\Users\chejiang\Desktop\Demo\Repository\obj\Debug\netcoreapp3.1\Demo.Repository.csprojAssemblyReference.cache
+C:\Users\chejiang\Desktop\Demo\Repository\obj\Debug\netcoreapp3.1\Demo.Repository.AssemblyInfoInputs.cache
+C:\Users\chejiang\Desktop\Demo\Repository\obj\Debug\netcoreapp3.1\Demo.Repository.AssemblyInfo.cs
